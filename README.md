@@ -1,6 +1,6 @@
 # js-solutions
 
-- 992
+- [992](https://github.com/Sasmita07/leetcode-js-solution/edit/main/README.md#javascript)
 
 # Algorithms
 
