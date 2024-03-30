@@ -1,6 +1,6 @@
 # js-solutions
 
-- [992](https://github.com/Sasmita07/leetcode-js-solution/edit/main/README.md#javascript)
+- [992](https://github.com/Sasmita07/leetcode-js-solution/tree/main?tab=readme-ov-file#javascript)
 
 # Algorithms
 
