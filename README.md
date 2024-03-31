@@ -1,7 +1,7 @@
 # js-solutions
 
 - [992](https://github.com/Sasmita07/leetcode-js-solution/tree/main?tab=readme-ov-file#javascript)
-- [2444]
+- [2444](https://github.com/Sasmita07/leetcode-js-solution/tree/main?tab=readme-ov-file#javascript)
 
 # Algorithms
 
